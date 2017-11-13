@@ -1,0 +1,11 @@
+{
+  "name": "project-oyster",
+  "version": "1.0.0",
+  "description": "A booking and request system for oystering",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Withington",
+  "license": "ISC"
+}
